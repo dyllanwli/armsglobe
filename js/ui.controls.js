@@ -800,6 +800,6 @@ function abbreviateNumber(value) {
         if (shortValue % 1 != 0)  shortNum = shortValue.toFixed(1);
         newValue = shortValue+suffixes[suffixNum];
     }
-    return '$' + newValue;
+    return newValue;
 }
 
