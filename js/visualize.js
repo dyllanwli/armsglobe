@@ -110,7 +110,7 @@ function getVisualizedMesh( linearData, year, countries, exportCategories, impor
 			var particleColor = lastColor.clone();		
 			var points = set.lineGeometry.vertices;
 			// var particleCount = Math.floor(set.v / set.lineGeometry.vertices.length) + 1;
-			var particleCount = Math.floor(set.v) + 1;
+			var particleCount = Math.floor(set.v*2) + 1;
 			particleCount = constrain(particleCount,1,200);
 			var particleSize = set.lineGeometry.size;			
 			for( var s=0; s<particleCount; s++ ){
