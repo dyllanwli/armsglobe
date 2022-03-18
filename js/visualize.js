@@ -109,8 +109,9 @@ function getVisualizedMesh( linearData, year, countries, exportCategories, impor
 
 			var particleColor = lastColor.clone();		
 			var points = set.lineGeometry.vertices;
-			var particleCount = Math.floor(set.v / 8000 / set.lineGeometry.vertices.length) + 1;
-			particleCount = constrain(particleCount,1,100);
+			// var particleCount = Math.floor(set.v / set.lineGeometry.vertices.length) + 1;
+			var particleCount = Math.floor(set.v) + 1;
+			particleCount = constrain(particleCount,1,200);
 			var particleSize = set.lineGeometry.size;			
 			for( var s=0; s<particleCount; s++ ){
 				// var rIndex = Math.floor( Math.random() * points.length );
@@ -186,7 +187,7 @@ function getVisualizedMesh( linearData, year, countries, exportCategories, impor
 		{ 	color: 0xffffff, opacity: 1.0, blending: 
 			THREE.AdditiveBlending, transparent:true, 
 			depthWrite: false, vertexColors: true, 
-			linewidth: 1 } ) 
+			linewidth: 10 } ) 
 	);
 
 	splineOutline.renderDepth = false;

@@ -21,10 +21,10 @@ function loadWorldPins( callback ){
 }
 
 function loadContentData(callback){	
-	var filePath = "categories/All.json";
+	var filePath = "categories/newnew.json";
 	filePath = encodeURI( filePath );
 	// console.log(filePath);
-			
+
 	xhr = new XMLHttpRequest();
 	xhr.open( 'GET', filePath, true );
 	xhr.onreadystatechange = function() {

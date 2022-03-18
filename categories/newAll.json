@@ -1,0 +1,3924 @@
+{
+    "timebins": [
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Syrian Arab Republic",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                }
+            ],
+            "t": "2005"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 10
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Nigeria",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "South Africa",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Slovenia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                }
+            ],
+            "t": "2003"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 12
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 7
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bosnia and Herzegovina",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Denmark",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Nigeria",
+                    "v": 1
+                }
+            ],
+            "t": "1997"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 13
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Finland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Thailand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sri Lanka",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Kenya",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Trinidad and Tobago",
+                    "v": 1
+                }
+            ],
+            "t": "2000"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                }
+            ],
+            "t": "1965"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Ghana",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Trinidad and Tobago",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Poland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sierra Leone",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Venezuela, Bolivarian Republic of",
+                    "v": 1
+                }
+            ],
+            "t": "1979"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Romania",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Switzerland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Thailand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                }
+            ],
+            "t": "1989"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 9
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 7
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Romania",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sudan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Norway",
+                    "v": 1
+                }
+            ],
+            "t": "1994"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 12
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bulgaria",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Romania",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Kenya",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                }
+            ],
+            "t": "1993"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bulgaria",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                }
+            ],
+            "t": "1991"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Switzerland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 7
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Argentina",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Denmark",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                }
+            ],
+            "t": "1983"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bulgaria",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Denmark",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sri Lanka",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bosnia and Herzegovina",
+                    "v": 1
+                }
+            ],
+            "t": "1995"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 7
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sweden",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 7
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "France",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Poland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Denmark",
+                    "v": 1
+                }
+            ],
+            "t": "2001"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hungary",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                }
+            ],
+            "t": "1980"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Zambia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Indonesia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                }
+            ],
+            "t": "1990"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 7
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Estonia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Kenya",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Nigeria",
+                    "v": 1
+                }
+            ],
+            "t": "1998"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Mexico",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Thailand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                }
+            ],
+            "t": "1985"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sweden",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                }
+            ],
+            "t": "1987"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bulgaria",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Portugal",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Thailand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                }
+            ],
+            "t": "1992"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 7
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bulgaria",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Estonia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                }
+            ],
+            "t": "1982"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 8
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Romania",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Kenya",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                }
+            ],
+            "t": "1996"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 8
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sweden",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Switzerland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                }
+            ],
+            "t": "1999"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                }
+            ],
+            "t": "1957"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                }
+            ],
+            "t": "1960"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sweden",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 8
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 9
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "South Africa",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Venezuela, Bolivarian Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                }
+            ],
+            "t": "2008"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bulgaria",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Switzerland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Nigeria",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                }
+            ],
+            "t": "2004"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sweden",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                }
+            ],
+            "t": "1971"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bosnia and Herzegovina",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hungary",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                }
+            ],
+            "t": "1973"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Thailand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                }
+            ],
+            "t": "1981"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 9
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Jordan",
+                    "v": 1
+                }
+            ],
+            "t": "2006"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Ghana",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hungary",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                }
+            ],
+            "t": "1975"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                }
+            ],
+            "t": "1953"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Ghana",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 8
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Venezuela, Bolivarian Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bosnia and Herzegovina",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "South Africa",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 1
+                }
+            ],
+            "t": "2002"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Kenya",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iceland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                }
+            ],
+            "t": "1988"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                }
+            ],
+            "t": "1970"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                }
+            ],
+            "t": "1972"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "South Africa",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hungary",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                }
+            ],
+            "t": "1984"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                }
+            ],
+            "t": "1978"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 14
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 15
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 10
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Estonia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "New Zealand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bosnia and Herzegovina",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Malaysia",
+                    "v": 1
+                }
+            ],
+            "t": "Null"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                }
+            ],
+            "t": "2013"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sweden",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Guatemala",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Denmark",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Ghana",
+                    "v": 1
+                }
+            ],
+            "t": "1974"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hungary",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                }
+            ],
+            "t": "1986"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                }
+            ],
+            "t": "1967"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                }
+            ],
+            "t": "1969"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                }
+            ],
+            "t": "1966"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Ireland",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Philippines",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Serbia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Nigeria",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sri Lanka",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                }
+            ],
+            "t": "1977"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                }
+            ],
+            "t": "1961"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                }
+            ],
+            "t": "1963"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                }
+            ],
+            "t": "1968"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bosnia and Herzegovina",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Malaysia",
+                    "v": 1
+                }
+            ],
+            "t": "1976"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Slovenia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                }
+            ],
+            "t": "2015"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Uzbekistan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "South Africa",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                }
+            ],
+            "t": "2007"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Taiwan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Brazil",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Pakistan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                }
+            ],
+            "t": "2009"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Thailand",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 1
+                }
+            ],
+            "t": "2017"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 8
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Singapore",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Japan",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Cyprus",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "South Africa",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Russian Federation",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Venezuela, Bolivarian Republic of",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Egypt",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                }
+            ],
+            "t": "2010"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 8
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Hong Kong",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Turkey",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 5
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Lebanon",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Nepal",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                }
+            ],
+            "t": "2012"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Greece",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Italy",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Singapore",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                }
+            ],
+            "t": "2014"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                }
+            ],
+            "t": "2018"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                }
+            ],
+            "t": "1964"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                }
+            ],
+            "t": "1962"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 6
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "China",
+                    "v": 4
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Korea, Republic of",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Iran",
+                    "v": 3
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bosnia and Herzegovina",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "India",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Israel",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Bangladesh",
+                    "v": 1
+                }
+            ],
+            "t": "2011"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Canada",
+                    "v": 2
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Sweden",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Australia",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Finland",
+                    "v": 1
+                }
+            ],
+            "t": "2016"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "United Kingdom",
+                    "v": 1
+                }
+            ],
+            "t": "2020"
+        },
+        {
+            "data": [
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Netherlands",
+                    "v": 1
+                },
+                {
+                    "i": "United States",
+                    "wc": "mil",
+                    "e": "Nepal",
+                    "v": 1
+                }
+            ],
+            "t": "2019"
+        }
+    ]
+}
