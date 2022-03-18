@@ -137,7 +137,7 @@ function start( e ){
 
 var Selection = function(){
 	this.selectedYear = '2010';
-	this.selectedCountry = 'UNITED STATES';
+	this.selectedCountry = 'TEXAS AM UNIV';
 	// this.showExports = true;
 	// this.showImports = true;
 	// this.importExportFilter = 'both';
@@ -296,10 +296,10 @@ function initScene() {
 
 	buildGUI();
 
-	selectVisualization( timeBins, '2010', ['UNITED STATES'], ['Military Weapons','Civilian Weapons', 'Ammunition'], ['Military Weapons','Civilian Weapons', 'Ammunition'] );					
+	selectVisualization( timeBins, '2010', ['TEXAS AM UNIV'], ['Military Weapons','Civilian Weapons', 'Ammunition'], ['Military Weapons','Civilian Weapons', 'Ammunition'] );					
 
 		// test for highlighting specific countries
-	// highlightCountry( ["United States", "Switzerland", "China"] );
+	// highlightCountry( ["TEXAS AM UNIV", "Switzerland", "China"] );
 
 
     //	-----------------------------------------------------------------------------
@@ -499,7 +499,7 @@ function highlightCountry( countries ){
 		// var fillCSS = '#ff0000';
 		var fillCSS = '#333333';
 		if( countryCode === selectedCountryCode )
-			fillCSS = '#eeeeee'
+			fillCSS = '#590000'
 		// if( mapColor !== undefined ){
 		// 	var k = map( mapColor, 0, 200000000, 0, 255 );
 		// 	k = Math.floor( constrain( k, 0, 255 ) );

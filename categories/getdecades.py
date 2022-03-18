@@ -26,7 +26,7 @@ for years in dic:
     # print(dic[years])
     datalist = []
     for country in dic[years]:
-        data = {"i": "United States","wc": "mil","e": country,"v": dic[years][country]}
+        data = {"i": "TEXAS AM UNIV","wc": "mil","e": country,"v": dic[years][country]}
         datalist.append(data)
     
     output['timeBins'].append({'data': datalist, 't':years})
