@@ -17,6 +17,7 @@ for i in range(len(timebins)):
     data = timebins[i]['data']
     for c in data:
         dic[decades][c['e']] += c['v']
+        dic["all"][c['e']] += c['v']
 
 
 output = {'timeBins': []}
