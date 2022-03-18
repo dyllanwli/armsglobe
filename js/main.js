@@ -44,7 +44,7 @@ var selectableYears = [];
 var selectableCountries = [];			    
 
 /*
-	930100 – military weapons, and includes some light weapons and artillery as well as machine guns and assault rifles etc.  
+	930100 – military , and includes some light weapons and artillery as well as machine guns and assault rifles etc.  
 	930190 – military firearms – eg assault rifles, machineguns (sub, light, heavy etc), combat shotguns, machine pistols etc
 	930200 – pistols and revolvers
 	930320 – Sporting shotguns (anything that isn’t rated as a military item).
@@ -56,10 +56,14 @@ var selectableCountries = [];
 //	a list of weapon 'codes'
 //	now they are just strings of categories
 //	Category Name : Category Code
+// var weaponLookup = {
+// 	'Military Weapons' 		: 'mil',
+// 	'Civilian Weapons'		: 'civ',
+// 	'Ammunition'			: 'ammo',
+// };
+
 var weaponLookup = {
-	'Military Weapons' 		: 'mil',
-	'Civilian Weapons'		: 'civ',
-	'Ammunition'			: 'ammo',
+	'uncategorical' 		: 'mil',
 };
 
 //	a list of the reverse for easy lookup
